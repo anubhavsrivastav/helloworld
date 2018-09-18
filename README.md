@@ -1,2 +1,2 @@
-# helloworld A classic project
+# helloworld A classic project in slack
 First Project In Git
